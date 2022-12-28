@@ -12,7 +12,7 @@ const SocialLinks = () => {
           Linkedin <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/maximiliano-costilla-1805b4213/",
       style: "rounded-tr-md",
     },
     {
