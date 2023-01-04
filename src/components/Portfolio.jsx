@@ -46,10 +46,10 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <a href="https://chilly-production.up.railway.app/" target ='_blank' className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <a href="https://chilly-production.up.railway.app/" target ='_blank' rel="noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
                 </a>
-                <a href="https://github.com/Maxycarp89/PF-Chilly" target ='_blank'  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <a href="https://github.com/Maxycarp89/PF-Chilly" target ='_blank' rel="noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
                 </a>
               </div>
